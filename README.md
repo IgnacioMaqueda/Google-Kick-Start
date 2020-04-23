@@ -36,3 +36,20 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [A-Allocation]:2020/RoundA/A-Allocation.cpp
 [B-Plates]:2020/RoundA/B-Plates.cpp
 [C-Workout]:2020/RoundA/C-Workout.cpp
+
+#### Round B
+
+- Problem A - [Bike Tour]: [A-BikeTour] (contest / full)
+- Problem B - [Bus Routes]: [B-BusRoutes] (contest / full)
+- Problem C - [Robot Path Decoding]: [C-RobotPathDecoding] (contest / partial)
+- Problem D - [Wandering Robot]: [D-WanderingRobot] (contest / partial)
+
+[Bike Tour]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6
+[Bus Routes]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf
+[Robot Path Decoding]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
+[Wandering Robot]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565
+
+[A-BikeTour]:2020/RoundB/A-BikeTour.cpp
+[B-BusRoutes]:2020/RoundB/B-BusRoutes.cpp
+[C-RobotPathDecoding]:2020/RoundB/C-RobotPathDecoding.cpp
+[D-WanderingRobot]:2020/RoundB/D-WanderingRobot.cpp
