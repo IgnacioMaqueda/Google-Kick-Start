@@ -53,3 +53,19 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-BusRoutes]:2020/RoundB/B-BusRoutes.cpp
 [C-RobotPathDecoding]:2020/RoundB/C-RobotPathDecoding.cpp
 [D-WanderingRobot]:2020/RoundB/D-WanderingRobot.cpp
+
+#### Round E
+
+- Problem A - [Longest Arithmetic]: [A-LongestArithmetic] (contest / full)
+
+[Longest Arithmetic]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bf4ed
+
+[A-LongestArithmetic]:2020/RoundE/A-LongestArithmetic.cpp
+
+#### Round F
+
+- Problem A - [ATM Queue]: [A-ATMQueue] (contest / partial)
+
+[ATM Queue]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8
+
+[A-ATMQueue]:2020/RoundF/A-ATMQueue.cpp
