@@ -69,3 +69,42 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [ATM Queue]:https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8
 
 [A-ATMQueue]:2020/RoundF/A-ATMQueue.cpp
+
+### 2021
+
+#### Round A
+
+- Problem A - [K-Goodness String]: [A-KGoodnessString] (practice / full)
+- Problem B - [L Shaped Plots]: [B-LShapedPlots] (practice / full)
+- Problem C - [Rabbit House]: [C-RabbitHouse] (practice / partial)
+
+[K-Goodness String]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
+[L Shaped Plots]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509
+[Rabbit House]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cb14
+
+[A-KGoodnessString]:2021/RoundA/A-KGoodnessString.cpp
+[B-LShapedPlots]:2021/RoundA/B-LShapedPlots.cpp
+[C-RabbitHouse]:2021/RoundA/C-RabbitHouse.cpp
+
+### 2022
+
+#### Practice Session 1
+
+- Problem A - [Sample Problem]: [A-SampleProblem(Python)] (contest / full) / [A-SampleProblem(C++)] (contest / full)
+- Problem B - [Centauri Prime]: [B-CentauriPrime] (contest / full)
+- Problem C - [H-index]: [C-HIndex] (contest / full)
+- Problem D - [Hex]: [D-Hex] (contest / partial)
+- Problem E - [Milk Tea]: [E-MilkTea] (contest / partial)
+
+[Sample Problem]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404
+[Centauri Prime]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5
+[H-index]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56
+[Hex]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942527
+[Milk Tea]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000943934
+
+[A-SampleProblem(Python)]:2022/PracticeSession1/A-SampleProblem.py
+[A-SampleProblem(C++)]:2022/PracticeSession1/A-SampleProblem.cpp
+[B-CentauriPrime]:2022/PracticeSession1/B-CentauriPrime.py
+[C-HIndex]:2022/PracticeSession1/C-HIndex.cpp
+[D-Hex]:2022/PracticeSession1/D-Hex.cpp
+[E-MilkTea]:2022/PracticeSession1/E-MilkTea.py
