@@ -86,6 +86,20 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-LShapedPlots]:2021/RoundA/B-LShapedPlots.cpp
 [C-RabbitHouse]:2021/RoundA/C-RabbitHouse.cpp
 
+#### Round B
+
+- Problem A - [Increasing Substring]: [A-IncreasingSubstring] (practice / full)
+- Problem B - [Longest Progression]: [B-LongestProgression] (practice / partial)
+- Problem C - [Consecutive Primes]: [C-ConsecutivePrimes] (practice / full)
+
+[Increasing Substring]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882
+[Longest Progression]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5
+[Consecutive Primes]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6
+
+[A-IncreasingSubstring]:2021/RoundB/A-IncreasingSubstring.py
+[B-LongestProgression]:2021/RoundB/B-LongestProgression.py
+[C-ConsecutivePrimes]:2021/RoundB/C-ConsecutivePrimes.py
+
 ### 2022
 
 #### Practice Session 1
