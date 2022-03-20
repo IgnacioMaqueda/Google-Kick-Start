@@ -100,6 +100,17 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-LongestProgression]:2021/RoundB/B-LongestProgression.py
 [C-ConsecutivePrimes]:2021/RoundB/C-ConsecutivePrimes.py
 
+#### Round C
+
+- Problem A - [Smaller Strings]: [A-SmallerStrings] (practice / full)
+- Problem B - [Alien Generator]: [B-AlienGenerator] (practice / full)
+
+[Smaller Strings]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435c44/00000000007ebe5e
+[Alien Generator]:https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435c44/00000000007ec1cb
+
+[A-SmallerStrings]:2021/RoundC/A-SmallerStrings.py
+[B-AlienGenerator]:2021/RoundC/B-AlienGenerator.py
+
 ### 2022
 
 #### Practice Session 1
@@ -122,3 +133,20 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [C-HIndex]:2022/PracticeSession1/C-HIndex.cpp
 [D-Hex]:2022/PracticeSession1/D-Hex.cpp
 [E-MilkTea]:2022/PracticeSession1/E-MilkTea.py
+
+#### Round A
+
+- Problem A - [Speed Typing]: [A-SpeedTyping] (contest / full)
+- Problem B - [Challenge Nine]: [B-ChallengeNine] (contest / full)
+- Problem C - [Palindrome Free Strings]: [C-PalindromeFreeStrings] (contest / partial)
+- Problem D - [Interesting Integers]: [D-InterestingIntegers] (contest / partial)
+
+[Speed Typing]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021
+[Challenge Nine]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997
+[Palindrome Free Strings]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e
+[Interesting Integers]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea
+
+[A-SpeedTyping]:2022/RoundA/A-SpeedTyping.py
+[B-ChallengeNine]:2022/RoundA/B-ChallengeNine.py
+[C-PalindromeFreeStrings]:2022/RoundA/C-PalindromeFreeStrings.py
+[D-InterestingIntegers]:2022/RoundD/D-InterestingIntegers.py
