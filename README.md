@@ -150,3 +150,17 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-ChallengeNine]:2022/RoundA/B-ChallengeNine.py
 [C-PalindromeFreeStrings]:2022/RoundA/C-PalindromeFreeStrings.py
 [D-InterestingIntegers]:2022/RoundD/D-InterestingIntegers.py
+
+#### Round B
+
+- Problem A - [Infinity Area]: [A-InfinityArea] (contest / full)
+- Problem B - [Palindromic Factors]: [B-PalindromicFactors] (contest / full)
+- Problem C - [Unlock the Padlock]: [C-UnlockThePadlock] (contest / partial)
+
+[Infinity Area]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acf079
+[Palindromic Factors]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acee89
+[Unlock the Padlock]:https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74/0000000000acef55
+
+[A-InfinityArea]:2022/RoundB/A-InfinityArea.py
+[B-PalindromicFactors]:2022/RoundB/B-PalindromicFactors.py
+[C-UnlockThePadlock]:2022/RoundB/C-UnlockThePadlock.py
